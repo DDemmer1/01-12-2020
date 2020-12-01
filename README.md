@@ -6,6 +6,7 @@
 ### 📝 Aufgabe:
 
 Erstellt eine Klasse ```Hund``` und füllt sie mit min. einem Attribut, das sich vergleichen lässt (zB. String rasse).
+
 ✨ Optional: Schreibt Getter/Setter und einen Konstruktor für euren ```Hund``` bzw. dessen Attribute.
 
 Erzeugt in eurer ```main-methode``` zwei ```Hund``` Objekte und vergleicht die Attribute der Hunde mit min. einem ```if``` statement.

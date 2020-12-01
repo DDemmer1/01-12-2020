@@ -6,12 +6,12 @@
 ### 📝 Aufgabe:
 
 Erstellt eine Klasse ```Hund``` und füllt sie mit min. einem Attribut, das sich vergleichen lässt (zB. String rasse).
-Optional: Schreibt Getter/Setter und einen Konstruktor für euren ```Hund``` bzw. dessen Attribute.
+✨ Optional: Schreibt Getter/Setter und einen Konstruktor für euren ```Hund``` bzw. dessen Attribute.
 
 Erzeugt in eurer ```main-methode``` zwei ```Hund``` Objekte und vergleicht die Attribute der Hunde mit min. einem ```if``` statement.
 Gebt nach dem vergleichen einen String in der Konsole aus. (z.B. "Das Alter der Hunde ist gleich. Sie sind beide 5 Jahre alt")
 
-Optional: Versucht euch an einem ```switch-case``` statement das je nach ```String rasse``` des Hundes einen anderes bellen in der Konsole ausgibt.
+⚠️ Advanced: Versucht euch an einem ```switch-case``` statement das je nach ```String rasse``` des Hundes einen anderes bellen in der Konsole ausgibt.
 
 
 
